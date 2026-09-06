@@ -1,0 +1,17 @@
+{
+  "account": "zd9563731-wq",
+  "repositories": [
+    {
+      "name": "yuntianmaomao",
+      "url": "https://github.com/zd9563731-wq/yuntianmaomao.git",
+      "enabled": true
+    },
+    {
+      "name": "test-codex",
+      "url": "https://github.com/zd9563731-wq/test-codex.git",
+      "enabled": true
+    }
+  ]
+}
+
+
